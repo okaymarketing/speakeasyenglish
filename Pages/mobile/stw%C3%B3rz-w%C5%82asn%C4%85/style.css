@@ -71,7 +71,7 @@ img[width][height] {
 {
 	background-color:rgba(0,0,0,0) !important;
 	background-repeat:no-repeat !important;
-	background-image:url('Resources/images/AdobeStock_320148078-640w.jpeg') !important;
+	background-image:url('/speakeasyenglish/Resources/images/AdobeStock_320148078-640w.jpeg') !important;
 	background-size:cover !important;
 }
 
