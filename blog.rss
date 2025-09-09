@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:g-custom="http://base.google.com/cns/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Newsy Speakeasy English</title>
+    <link>https://www.speakeasyenglish.pl</link>
+    <description>Nie chcesz przegapić ważnych wiadomości z punktu widzenia nauki języka angielskie? Zaprenumeruj nasz newsletter lub korzystaj z bloga albo kanałów RSS</description>
+    <atom:link href="https://www.speakeasyenglish.pl/feed/rss2" type="application/rss+xml" rel="self" />
+    <image>
+      <title>Newsy Speakeasy English</title>
+      <url>https://irp.cdn-website.com/f4b2f065/dms3rep/multi/344164716.webp</url>
+      <link>https://www.speakeasyenglish.pl</link>
+    </image>
+    <item>
+      <title>Promocja! Miesiąc gratis!</title>
+      <link>https://www.speakeasyenglish.pl/promocja</link>
+      <description />
+      <enclosure url="https://irp.cdn-website.com/f4b2f065/dms3rep/multi/AdobeStock_320148078.jpeg" length="97959" type="image/jpeg" />
+      <pubDate>Fri, 09 Sep 2022 16:51:52 GMT</pubDate>
+      <guid>https://www.speakeasyenglish.pl/promocja</guid>
+      <g-custom:tags type="string" />
+      <media:content medium="image" url="https://irp.cdn-website.com/f4b2f065/dms3rep/multi/AdobeStock_318394619.jpeg">
+        <media:description>thumbnail</media:description>
+      </media:content>
+      <media:content medium="image" url="https://irp.cdn-website.com/f4b2f065/dms3rep/multi/AdobeStock_320148078.jpeg">
+        <media:description>main image</media:description>
+      </media:content>
+    </item>
+  </channel>
+</rss>
